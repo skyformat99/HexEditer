@@ -1,0 +1,10 @@
+Debug/
+*.opensdf
+*.sln
+*.suo
+*.sdf
+ipch/
+*.vcxproj*
+*.pdb
+HexEditer/Release/
+*.aps
